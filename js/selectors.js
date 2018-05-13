@@ -2,4 +2,5 @@
 function paragraphSelector () {
   return $('p');
 }
-$('img');
+
+function 
